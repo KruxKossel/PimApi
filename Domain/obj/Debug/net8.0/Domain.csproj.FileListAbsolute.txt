@@ -1,0 +1,11 @@
+e:\Faculdade\4Semestre\Poo2\Web\PimTeste\Domain\bin\Debug\net8.0\Domain.deps.json
+e:\Faculdade\4Semestre\Poo2\Web\PimTeste\Domain\bin\Debug\net8.0\Domain.dll
+e:\Faculdade\4Semestre\Poo2\Web\PimTeste\Domain\bin\Debug\net8.0\Domain.pdb
+e:\Faculdade\4Semestre\Poo2\Web\PimTeste\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+e:\Faculdade\4Semestre\Poo2\Web\PimTeste\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+e:\Faculdade\4Semestre\Poo2\Web\PimTeste\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+e:\Faculdade\4Semestre\Poo2\Web\PimTeste\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+e:\Faculdade\4Semestre\Poo2\Web\PimTeste\Domain\obj\Debug\net8.0\Domain.dll
+e:\Faculdade\4Semestre\Poo2\Web\PimTeste\Domain\obj\Debug\net8.0\refint\Domain.dll
+e:\Faculdade\4Semestre\Poo2\Web\PimTeste\Domain\obj\Debug\net8.0\Domain.pdb
+e:\Faculdade\4Semestre\Poo2\Web\PimTeste\Domain\obj\Debug\net8.0\ref\Domain.dll

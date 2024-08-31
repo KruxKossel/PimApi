@@ -1,0 +1,17 @@
+E:\Faculdade\4Semestre\Poo2\Web\PimTeste\Infra\bin\Debug\net8.0\Infra.deps.json
+E:\Faculdade\4Semestre\Poo2\Web\PimTeste\Infra\bin\Debug\net8.0\Infra.runtimeconfig.json
+e:\Faculdade\4Semestre\Poo2\Web\PimTeste\Infra\bin\Debug\net8.0\Infra.dll
+e:\Faculdade\4Semestre\Poo2\Web\PimTeste\Infra\bin\Debug\net8.0\Infra.pdb
+e:\Faculdade\4Semestre\Poo2\Web\PimTeste\Infra\bin\Debug\net8.0\Domain.dll
+e:\Faculdade\4Semestre\Poo2\Web\PimTeste\Infra\bin\Debug\net8.0\Domain.pdb
+e:\Faculdade\4Semestre\Poo2\Web\PimTeste\Infra\obj\Debug\net8.0\Infra.csproj.AssemblyReference.cache
+e:\Faculdade\4Semestre\Poo2\Web\PimTeste\Infra\obj\Debug\net8.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+e:\Faculdade\4Semestre\Poo2\Web\PimTeste\Infra\obj\Debug\net8.0\Infra.AssemblyInfoInputs.cache
+e:\Faculdade\4Semestre\Poo2\Web\PimTeste\Infra\obj\Debug\net8.0\Infra.AssemblyInfo.cs
+e:\Faculdade\4Semestre\Poo2\Web\PimTeste\Infra\obj\Debug\net8.0\Infra.csproj.CoreCompileInputs.cache
+E:\Faculdade\4Semestre\Poo2\Web\PimTeste\Infra\obj\Debug\net8.0\Infra.csproj.CopyComplete
+e:\Faculdade\4Semestre\Poo2\Web\PimTeste\Infra\obj\Debug\net8.0\Infra.dll
+e:\Faculdade\4Semestre\Poo2\Web\PimTeste\Infra\obj\Debug\net8.0\refint\Infra.dll
+e:\Faculdade\4Semestre\Poo2\Web\PimTeste\Infra\obj\Debug\net8.0\Infra.pdb
+E:\Faculdade\4Semestre\Poo2\Web\PimTeste\Infra\obj\Debug\net8.0\Infra.genruntimeconfig.cache
+E:\Faculdade\4Semestre\Poo2\Web\PimTeste\Infra\obj\Debug\net8.0\ref\Infra.dll
