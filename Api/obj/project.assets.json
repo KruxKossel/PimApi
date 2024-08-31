@@ -3144,6 +3144,7 @@
     "net8.0": [
       "Aplication >= 1.0.0",
       "Domain >= 1.0.0",
+      "Infra >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 8.0.1",
       "Microsoft.EntityFrameworkCore >= 8.0.8",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.8",
@@ -3184,6 +3185,9 @@
             },
             "E:\\Faculdade\\4Semestre\\Poo2\\Web\\PimTeste\\Domain\\Domain.csproj": {
               "projectPath": "E:\\Faculdade\\4Semestre\\Poo2\\Web\\PimTeste\\Domain\\Domain.csproj"
+            },
+            "E:\\Faculdade\\4Semestre\\Poo2\\Web\\PimTeste\\Infra\\Infra.csproj": {
+              "projectPath": "E:\\Faculdade\\4Semestre\\Poo2\\Web\\PimTeste\\Infra\\Infra.csproj"
             }
           }
         }
