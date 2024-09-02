@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "Api\Api.csproj", "{5
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplication", "Aplication\Aplication.csproj", "{DEC3B71D-F275-495B-A35D-925707D73718}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{E9E9A12B-1FF0-4DA7-883B-C9C4283177E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,9 +38,12 @@ Global
 		{DEC3B71D-F275-495B-A35D-925707D73718}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEC3B71D-F275-495B-A35D-925707D73718}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEC3B71D-F275-495B-A35D-925707D73718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9E9A12B-1FF0-4DA7-883B-C9C4283177E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9E9A12B-1FF0-4DA7-883B-C9C4283177E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9E9A12B-1FF0-4DA7-883B-C9C4283177E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9E9A12B-1FF0-4DA7-883B-C9C4283177E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-    	SolutionGuid = {7DDF27DA-1AD2-405F-B0E2-5702F2BDB3A9}
+		SolutionGuid = {7DDF27DA-1AD2-405F-B0E2-5702F2BDB3A9}
 	EndGlobalSection
-
 EndGlobal

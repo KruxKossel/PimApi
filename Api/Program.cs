@@ -13,6 +13,21 @@ builder.Services.AddDbContext<PlantechContext>(options =>
     b => b.MigrationsAssembly("Api")));
 
 
+// Injeção de dependência para repositórios
+// builder.Services.AddScoped<IAgricultorRepository, AgricultorRepository>();
+// builder.Services.AddScoped<ICompradorRepository, CompradorRepository>();
+// builder.Services.AddScoped<IVendedorRepository, VendedorRepository>();
+// builder.Services.AddScoped<IAdministradorRepository, AdministradorRepository>();
+// builder.Services.AddScoped<IRelatorioRepository, RelatorioRepository>();
+// builder.Services.AddScoped<IProdutoRepository, ProdutoRepository>();
+// builder.Services.AddScoped<IInsumoRepository, InsumoRepository>();
+// builder.Services.AddScoped<IClienteRepository, ClienteRepository>();
+// builder.Services.AddScoped<IFornecedorRepository, FornecedorRepository>();
+// builder.Services.AddScoped<ICompraRepository, CompraRepository>();
+// builder.Services.AddScoped<IVendaRepository, VendaRepository>();
+
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
